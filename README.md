@@ -1547,3 +1547,7 @@ pytest --reruns=1 --reruns-delay=1
 <div align="left"></div>
 <div><a href="https://pepy.tech/projects/seleniumbase?timeRange=threeMonths&category=version&includeCIDownloads=true&granularity=daily&viewType=line&versions=*" target="_blank"><img src="https://static.pepy.tech/badge/seleniumbase" alt="SeleniumBase PyPI downloads" /></a> <a href="https://discord.gg/EdhQTn3EyE" target="_blank"><img src="https://img.shields.io/discord/727927627830001734?color=7289DA&label=Discord&logo=discord&logoColor=white" /></a></div>
 <div><a href="https://www.youtube.com/@MichaelMintz"><img src="https://img.shields.io/badge/docs-MichaelMintz-D12345.svg?style=flat&logo=YouTube&logoColor=white&label=YouTube" alt="YouTube Channel" /></a></div>
+
+
+## @monetize
+This MCP server is x402-enabled and monetized via [NanoEmpire Trust Manifests](https://www.nanoempireai.com/manifests.html). Run \python x402_monetize.py\ to view the agent card.
